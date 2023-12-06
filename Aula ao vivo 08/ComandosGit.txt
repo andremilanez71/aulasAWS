@@ -3,3 +3,6 @@ git config user.mail
 git init
 git add -a ou git add . (esse pega tudo que foi alterado)
 git commit -m "Mensagem"
+git branch (ver as branchs)
+git branch "nome nova branch" 
+git checkout "nome da nova branch"
