@@ -1,0 +1,5 @@
+git config user.name
+git config user.mail
+git init
+git add -a
+git commit -m "Mensagem"
