@@ -1,5 +1,5 @@
 git config user.name
 git config user.mail
 git init
-git add -a
+git add -a ou git add . (esse pega tudo que foi alterado)
 git commit -m "Mensagem"
